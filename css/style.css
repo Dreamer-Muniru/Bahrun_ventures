@@ -18,9 +18,7 @@
     /* My Styling */
 /* ============================================ */
 
-.product-bg .product-box img{
-	height: 200px
-}
+
 
 /* ============================================ */
     /* End My Styling */
@@ -2376,4 +2374,8 @@ text-align: center;
 	left: 10px;
 	top: inherit;
 	bottom: 10px;
+}
+
+.product-bg .product-box img{
+	height: 200px
 }
